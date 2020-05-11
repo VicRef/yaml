@@ -1,0 +1,29 @@
+# comment
+
+person:
+  name: "victor"
+  occupation: 'instructor'
+  age: 45
+  male: true
+  hobbies:
+    - hiking
+    - biking
+    - riding
+  movies: ["dark knigth", "leon"]
+  friends:
+    - name: "Aaron"
+      age: 35
+    - {name: "adam", age:22}
+    -
+      name: "joe"
+      age: 23
+    description: >
+      jljkl ksjd lskdjf
+      şalkdj 
+      şkasd i şakd şa
+    signature: 
+      Mike
+      Clarusway
+      email - kkk.vvv
+    
+      
